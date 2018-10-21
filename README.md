@@ -9,4 +9,3 @@ Analysis of Season 2017-2018 of Top 5 Leagues + Champions League
 * ******IN PROGRESS******
 
 * Currently only basic Premier League stats
- 
